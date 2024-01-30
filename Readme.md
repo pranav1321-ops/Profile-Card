@@ -17,4 +17,4 @@ Profile-Card is a simple HTML and CSS project that allows you to create a stylis
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/Profile-Card.git
+   git clone https://github.com/pranav1321-ops/Profile-Card.git
